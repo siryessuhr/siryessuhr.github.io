@@ -1,0 +1,129 @@
+{
+    "basics": {
+        "name": "Daniel Suhr",
+        "label": "Passionate software engineer with focus on delivering value",
+        "image": "",
+        "email": "danielmsuhr@gmail.com",
+        "url": "https://siryessuhr.github.io/",
+        "summary": "Experience software engineer with a bias for action for delivering measureable value to internal and external customers.",
+        "location": {
+            "city": "Denver Metro Area",
+            "region": "Colorado"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "siryessuhr",
+                "url": "https://github.com/siryessuhr"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "siryessuhr",
+                "url": "https://www.linkedin.com/in/siryessuhr/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Ford Motor Company",
+            "position": "Staff Software Engineer",
+            "url": "https://www.ford.com/",
+            "startDate": "2024-06-01",
+            "summary": "Leading software development of internal tools development for vehicle performance & latency analysis",
+            "highlights": [
+                "Architected FastAPI Python backend with Next.js frontend application for platform, feature and system engineers to visualize changes to vehicle performance and latency",
+                "Enabled automated deployment of GCP CloudRun services with Entra ID authentication using GCP CloudBuild"
+            ]
+        },
+        {
+            "name": "Ford Motor Company",
+            "position": "Software Systems Development Engineer",
+            "url": "https://www.ford.com/",
+            "startDate": "2022-11-01",
+            "endDate": "2024-06-01",
+            "summary": "",
+            "highlights": [
+                "Managed small team of software engineers that collaborated with other development teams on various automation workflows",
+                "Architected CI/CD workflows for critical vehicle deliverables using GitHub Actions",
+                "Facilitated software development training courses in Python (Clean Code, SOLID Principles)",
+                "Deployed and managed infrastructure in GCP using Terraform"
+            ]
+        },
+        {
+            "name": "Ford Motor Company",
+            "position": "DevOps Engineer",
+            "url": "https://www.ford.com/",
+            "startDate": "2022-01-10",
+            "endDate": "2022-11-01",
+            "summary": "",
+            "highlights": [
+                "Designed & implemented automation workflows for a instruction-level simulation tool",
+                "Managed bare-metal high-performance compute infrastucture for execution of vehicle simulations using Ansible"
+            ]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Colorado School of Mines",
+            "area": "Electrical Engineering",
+            "studyType": "Bachelor",
+            "endDate": "2012-12-14"
+        }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Development",
+            "level": "Well enough",
+            "keywords": [
+                "Python",
+                "Bash",
+                "Linux",
+                "Docker / Kubernetes",
+                "Ansible / Terraform",
+                "GitHub Actions / Jenkins"
+            ]
+        },
+        {
+            "name": "Development",
+            "level": "Still learning",
+            "keywords": [
+                "Typescript / React",
+                "Rust",
+                "Golang"
+            ]
+        },
+        {
+            "name": "Competencies",
+            "level": "Well enough",
+            "keywords": [
+                "DevOps",
+                "Value Streams",
+                "Process Automation",
+                "Software Testing",
+                "Scaled Agile / SAFe"
+            ] 
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {"name": "My dogs"},
+        {"name": "Ice Hockey"},
+        {"name": "Video Games"},
+        {"name": "Traveling"}
+    ],
+    "references": [
+        {
+            "name": "Available upon request"
+        }
+    ],
+    "projects": []
+}
