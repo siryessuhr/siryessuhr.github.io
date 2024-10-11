@@ -1,11 +1,11 @@
 {
     "basics": {
         "name": "Daniel Suhr",
-        "label": "Passionate software engineer with focus on delivering value",
-        "image": "",
+        "label": "DevOps aficionado & technology enthusiast",
+        "image": "avatar.jpg",
         "email": "danielmsuhr@gmail.com",
         "url": "https://siryessuhr.github.io/",
-        "summary": "Experience software engineer with a bias for action for delivering measureable value to internal and external customers.",
+        "summary": "Experienced software engineer with a bias for action for delivering measurable value to internal and external customers. ",
         "location": {
             "city": "Denver Metro Area",
             "region": "Colorado"
@@ -29,10 +29,11 @@
             "position": "Staff Software Engineer",
             "url": "https://www.ford.com/",
             "startDate": "2024-06-01",
-            "summary": "Leading software development of internal tools development for vehicle performance & latency analysis",
+            "summary": "Software development lead of internal tools for vehicle performance & latency analysis",
             "highlights": [
                 "Architected FastAPI Python backend with Next.js frontend application for platform, feature and system engineers to visualize changes to vehicle performance and latency",
-                "Enabled automated deployment of GCP CloudRun services with Entra ID authentication using GCP CloudBuild"
+                "Enabled automated deployment of GCP CloudRun services with Entra ID authentication using GCP CloudBuild",
+                "Built LLM powered chatbot using Chainlit and corporate LLM passthrough to answer questions about Ford vehicle architecture via GCP BigQuery data"
             ]
         },
         {
@@ -41,12 +42,15 @@
             "url": "https://www.ford.com/",
             "startDate": "2022-11-01",
             "endDate": "2024-06-01",
-            "summary": "",
+            "summary": "Automation lead for organization of 100+ vehicle systems engineers",
             "highlights": [
-                "Managed small team of software engineers that collaborated with other development teams on various automation workflows",
+                "Managed small team of software engineers that collaborated with other development teams on defining automation workflows",
                 "Architected CI/CD workflows for critical vehicle deliverables using GitHub Actions",
+                "Coached teams on software, tooling, workflow & design best practices for streamlined delivery of value to stakeholders",
                 "Facilitated software development training courses in Python (Clean Code, SOLID Principles)",
-                "Deployed and managed infrastructure in GCP using Terraform"
+                "Designed & implemented developer workflow for custom Linux distribution using Yocto & Bitbake",
+                "Deployed and managed infrastructure in GCP using Terraform",
+                "Enabled observability of internally developed tools using ElasticStack"
             ]
         },
         {
@@ -55,12 +59,69 @@
             "url": "https://www.ford.com/",
             "startDate": "2022-01-10",
             "endDate": "2022-11-01",
-            "summary": "",
+            "summary": "Automation tools lead",
             "highlights": [
                 "Designed & implemented automation workflows for a instruction-level simulation tool",
-                "Managed bare-metal high-performance compute infrastucture for execution of vehicle simulations using Ansible",
-                "Learned to navigate the labyrinth of legacy IT processes & systems"
+                "Managed bare-metal high-performance compute infrastructure for execution of vehicle simulations using Ansible"
             ]
+        },
+        {
+            "name": "Alchemer, Inc",
+            "position": "Site Reliability Engineer",
+            "url": "https://www.alchemer.com/",
+            "startDate": "2021-04-01",
+            "endDate": "2021-11-01",
+            "summary": "Constructed new AWS environment while maintaining existing environment with no access to history or tribal knowledge",
+            "highlights": []
+        },
+        {
+            "name": "NetApp, Inc",
+            "position": "Senior Software Engineer",
+            "url": "https://www.netapp.com",
+            "startDate": "2018-05-01",
+            "endDate": "2021-03-01",
+            "summary": "Tech lead for SAFe System Team responsible for software delivery pipeline health",
+            "highlights": [
+                "Spearheaded effort to collect, display and improve decision making with DORA DevOps Metrics (change failure rate, lead time, mean time to recovery and deployment frequency)",
+                "Improved stability of a Jenkins pipeline for a custom Linux (Gentoo) distribution",
+                "Fulfilled SAFe Product Owner responsibilities: defined & maintained backlog of features, stories & bugs; worked with architects, product managers & other business owners to expand automation capabilities"
+            ]
+        },
+        {
+            "name": "NetApp - SolidFire",
+            "position": "Software Developer in Test",
+            "url": "https://www.netapp.com",
+            "startDate": "2017-03-01",
+            "endDate": "2018-05-01",
+            "summary": "",
+            "highlights": [
+                "Wrote automated tests for low level network & SSD platform capabilities using Python & Bash",
+                "Converted manually documented test cases into Python",
+                "Collaborated with team in India to build out test services to simplify and share qualification tests with vendors and other technology partners",
+                "Fulfilled SAFe Scrum Master duties: facilitated daily stand-ups, retrospectives and planning"
+            ]
+        },
+        {
+            "name": "NetApp, Inc (formerly SolidFire)",
+            "position": "Hardware Reliability Engineer",
+            "url": "https://www.netapp.com",
+            "startDate": "2015-10-01",
+            "endDate": "2017-03-01",
+            "summary": "",
+            "highlights": [
+                "Performed first level failure analysis of defective rack servers",
+                "Tracked & monitored systemic failure rates of components and worked with vendors on escalations",
+                "Wrote automated failure rate reports using Python that was used to identify heightened failure rates of SSDs that had to be remediated by supplier"
+            ]
+        },
+        {
+            "name": "Seagate, Inc",
+            "position": "Customer Quality Failure Analysis Engineer",
+            "url": "https://www.seagate.com",
+            "startDate": "2015-10-01",
+            "endDate": "2017-03-01",
+            "summary": "Performed detailed failure analysis of spinning disk drives",
+            "highlights": []
         }
     ],
     "volunteer": [],
@@ -86,15 +147,6 @@
                 "Docker / Kubernetes",
                 "Ansible / Terraform",
                 "GitHub Actions / Jenkins"
-            ]
-        },
-        {
-            "name": "Development",
-            "level": "Still learning",
-            "keywords": [
-                "Typescript / React",
-                "Rust",
-                "Golang"
             ]
         },
         {
