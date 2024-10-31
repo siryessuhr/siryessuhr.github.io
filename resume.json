@@ -5,7 +5,7 @@
         "picture": "https://avatars.githubusercontent.com/u/12955119?v=4",
         "email": "danielmsuhr@gmail.com",
         "url": "https://siryessuhr.github.io/",
-        "summary": "Experienced software engineer with a bias for action for delivering measurable value to internal and external customers. ",
+        "summary": "Experienced software engineer with a bias for action for delivering measurable value to internal and external customers. Clear, effective communicator who believes that leadership is an activity that requires regular, persistent collaboration.",
         "location": {
             "city": "Denver Metro Area",
             "region": "Colorado"
@@ -44,13 +44,14 @@
             "endDate": "2024-06-01",
             "summary": "Automation lead for organization of 100+ vehicle systems engineers",
             "highlights": [
-                "Managed small team of software engineers that collaborated with other development teams on defining automation workflows",
+                "Collaborated with architecture tools team to implement a Python CLI tool to replace a legacy vendor-sourced toolchain that saved Ford more than 1 million dollars and enabled programmatic testing of an AUTOSAR compliant vehicle architecture",
+                "Managed a small team of software engineers that collaborated with other development teams on defining end-to-end automation workflows and introducing automotive engineers to software development practices",
                 "Architected CI/CD workflows for critical vehicle deliverables using GitHub Actions",
                 "Coached teams on software, tooling, workflow & design best practices for streamlined delivery of value to stakeholders",
                 "Facilitated software development training courses in Python (Clean Code, SOLID Principles)",
-                "Designed & implemented developer workflow for custom Linux distribution using Yocto & Bitbake",
+                "Designed & implemented developer workflows for custom automotive Linux distribution using Yocto & Bitbake",
                 "Deployed and managed infrastructure in GCP using Terraform",
-                "Enabled observability of internally developed tools using ElasticStack"
+                "Enabled observability of internally developed tools using ElasticStack to better debug issues and track version usage across the internal customer base"
             ]
         },
         {
@@ -61,8 +62,8 @@
             "endDate": "2022-11-01",
             "summary": "Automation tools lead",
             "highlights": [
-                "Designed & implemented automation workflows for a instruction-level simulation tool",
-                "Managed bare-metal high-performance compute infrastructure for execution of vehicle simulations using Ansible"
+                "Designed & implemented automation workflows for a instruction-level simulation tool to create a shift-left culture & enforce code quality standards",
+                "Managed bare-metal high-performance compute infrastructure for execution of vehicle embedded software simulations using Ansible"
             ]
         },
         {
@@ -93,7 +94,7 @@
             "url": "https://www.netapp.com",
             "startDate": "2017-03-01",
             "endDate": "2018-05-01",
-            "summary": "",
+            "summary": "Test automation engineer & Agile ceremony facilitator",
             "highlights": [
                 "Wrote automated tests for low level network & SSD platform capabilities using Python & Bash",
                 "Converted manually documented test cases into Python",
@@ -107,11 +108,11 @@
             "url": "https://www.netapp.com",
             "startDate": "2015-10-01",
             "endDate": "2017-03-01",
-            "summary": "",
+            "summary": "Failure analysis & field reliability engineer",
             "highlights": [
                 "Performed first level failure analysis of defective rack servers",
                 "Tracked & monitored systemic failure rates of components and worked with vendors on escalations",
-                "Wrote automated failure rate reports using Python that was used to identify heightened failure rates of SSDs that had to be remediated by supplier"
+                "Automated generating failure rate reports using Python that were used to identify heightened failure rates of SSDs that had to be remediated by supplier"
             ]
         },
         {
@@ -157,7 +158,11 @@
                 "Value Streams",
                 "Process Automation",
                 "Software Testing",
-                "Scaled Agile / SAFe"
+                "Scaled Agile / SAFe",
+                "Concise communication",
+                "Critical & creative thinking",
+                "Leadership as an activity"
+
             ] 
         }
     ],
