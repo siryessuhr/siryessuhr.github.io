@@ -178,10 +178,6 @@
         {"name": "Video Games"},
         {"name": "Traveling"}
     ],
-    "references": [
-        {
-            "name": "Available upon request"
-        }
-    ],
+    "references": [],
     "projects": []
 }
