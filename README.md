@@ -1,7 +1,5 @@
 ## [JSON Resume](https://jsonresume.org/)
 
-Install CLI: `npm install -g resume-cli`
+Install CLI and themes: `npm install -g resumed jsonresume-theme-macchiato jsonresume-theme-react`
 
-Install theme locally: `npm install jsonresume-theme-elegant`
-
-Generate PDF: `npx resume export --theme=elegant --format=pdf resume.pdf`
+Generate PDF: `resumed export -o resume.pdf --theme jsonresume-theme-react`
