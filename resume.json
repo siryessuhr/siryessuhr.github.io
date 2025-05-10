@@ -30,6 +30,7 @@
     "work": [
         {
             "name": "Ford Motor Company",
+            "company": "Ford Motor Company",
             "position": "Staff Software Engineer",
             "url": "https://www.ford.com/",
             "startDate": "2025-01-01",
@@ -40,6 +41,7 @@
         },
         {
             "name": "Ford Motor Company",
+            "company": "Ford Motor Company",
             "position": "Staff Software Engineer",
             "url": "https://www.ford.com/",
             "startDate": "2024-06-01",
@@ -53,6 +55,7 @@
         },
         {
             "name": "Ford Motor Company",
+            "company": "Ford Motor Company",
             "position": "Software Systems Development Engineer",
             "url": "https://www.ford.com/",
             "startDate": "2022-11-01",
@@ -71,6 +74,7 @@
         },
         {
             "name": "Ford Motor Company",
+            "company": "Ford Motor Company",
             "position": "DevOps Engineer",
             "url": "https://www.ford.com/",
             "startDate": "2022-01-10",
@@ -83,6 +87,7 @@
         },
         {
             "name": "Alchemer, Inc",
+            "company": "Alchemer, Inc",
             "position": "Site Reliability Engineer",
             "url": "https://www.alchemer.com/",
             "startDate": "2021-04-01",
@@ -94,6 +99,7 @@
         },
         {
             "name": "NetApp, Inc",
+            "company": "NetApp, Inc",
             "position": "Senior Software Engineer",
             "url": "https://www.netapp.com",
             "startDate": "2018-05-01",
@@ -107,6 +113,7 @@
         },
         {
             "name": "NetApp - SolidFire",
+            "company": "NetApp - SolidFire",
             "position": "Software Developer in Test",
             "url": "https://www.netapp.com",
             "startDate": "2017-03-01",
@@ -121,6 +128,7 @@
         },
         {
             "name": "NetApp, Inc (formerly SolidFire)",
+            "company": "NetApp, Inc (formerly SolidFire)",
             "position": "Hardware Reliability Engineer",
             "url": "https://www.netapp.com",
             "startDate": "2015-10-01",
@@ -134,6 +142,7 @@
         },
         {
             "name": "Seagate Technology",
+            "company": "Seagate Technology",
             "position": "Customer Quality Failure Analysis Engineer",
             "url": "https://www.seagate.com",
             "startDate": "2015-10-01",
