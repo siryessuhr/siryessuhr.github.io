@@ -1,4 +1,7 @@
 {
+    "meta": {
+        "theme": "macchiato"
+    },
     "basics": {
         "name": "Daniel Suhr",
         "label": "DevOps aficionado & technology enthusiast",
@@ -8,7 +11,8 @@
         "summary": "Experienced software engineer with a bias for action towards delivering measurable value to internal and external customers. Clear, effective communicator who believes that leadership is an activity that requires regular, persistent collaboration.",
         "location": {
             "city": "Denver Metro Area",
-            "region": "Colorado"
+            "region": "Colorado",
+            "countryCode": "US"
         },
         "profiles": [
             {
@@ -139,20 +143,38 @@
     "publications": [],
     "skills": [
         {
-            "name": "Development",
-            "level": "Well enough",
+            "name": "Languages",
+            "level": "Using today",
             "keywords": [
                 "Python",
+                "Javascript",
+                "Typescript"
+            ]
+        },
+        {
+            "name": "Languages",
+            "level": "Out of practice",
+            "keywords": [
                 "Bash",
-                "Linux",
-                "Docker / Kubernetes",
-                "Ansible / Terraform",
-                "GitHub Actions / Jenkins"
+                "Golang",
+                "Rust"
+            ]
+        },
+        {
+            "name": "Tools",
+            "keywords": [
+                "Github Actions",
+                "Jenkins",
+                "Docker",
+                "Kubernetes",
+                "Ansible",
+                "Terraform",
+                "Google Cloud",
+                "AWS"
             ]
         },
         {
             "name": "Competencies",
-            "level": "Well enough",
             "keywords": [
                 "DevOps",
                 "Value Streams",
@@ -162,7 +184,6 @@
                 "Concise communication",
                 "Critical & creative thinking",
                 "Leadership as an activity"
-
             ] 
         }
     ],
@@ -173,10 +194,11 @@
         }
     ],
     "interests": [
-        {"name": "My dogs"},
+        {"name": "Dogs"},
+        {"name": "Food"},
         {"name": "Ice Hockey"},
-        {"name": "Video Games"},
-        {"name": "Traveling"}
+        {"name": "Traveling"},
+        {"name": "Video Games"}
     ],
     "references": [],
     "projects": []
