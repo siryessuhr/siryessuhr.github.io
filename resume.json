@@ -4,11 +4,11 @@
     },
     "basics": {
         "name": "Daniel Suhr",
-        "label": "DevOps aficionado & technology enthusiast",
+        "label": "Senior Software Engineer | Engineering Leader | ML & DevOps Enthusiast",
         "picture": "https://avatars.githubusercontent.com/u/12955119?v=4",
         "email": "danielmsuhr@gmail.com",
         "url": "https://siryessuhr.github.io/",
-        "summary": "Experienced software engineer with a bias for action towards delivering measurable value to internal and external customers. Clear, effective communicator who believes that leadership is an activity that requires regular, persistent collaboration.",
+        "summary": "Experienced software engineer with a bias for action and a focus on delivering measurable value to both internal and external customers. Clear and effective communicator who views leadership as a continuous, collaborative activity.",
         "location": {
             "city": "Denver Metro Area",
             "region": "Colorado",
@@ -32,12 +32,23 @@
             "name": "Ford Motor Company",
             "position": "Staff Software Engineer",
             "url": "https://www.ford.com/",
+            "startDate": "2025-01-01",
+            "highlights": [
+                "Built an LLM-powered chatbot using RAG best practices to answer questions about AUTOSAR standards documentation. Leveraged Elastic vector databases, LangChain, Chainlit, and GCP Cloud Run to deploy the application broadly across development and architecture teams.",
+                "Collaborated with the architecture team in Brazil to build a Jira issue debugger using Atlassian APIs, Elastic, and LangChain to accelerate root cause analysis of automotive test issues."
+            ]
+        },
+        {
+            "name": "Ford Motor Company",
+            "position": "Staff Software Engineer",
+            "url": "https://www.ford.com/",
             "startDate": "2024-06-01",
+            "endDate": "2024-12-31",
             "summary": "Software development lead of internal tools for vehicle performance & latency analysis",
             "highlights": [
-                "Architected FastAPI Python backend with Next.js frontend application for platform, feature and system engineers to visualize changes to vehicle performance and latency",
-                "Enabled automated deployment of GCP CloudRun services with Entra ID authentication using GCP CloudBuild",
-                "Built LLM powered chatbot using Chainlit and corporate LLM passthrough to answer questions about Ford vehicle architecture via GCP BigQuery data"
+                "Architected a FastAPI backend and a Next.js frontend application for platform, feature, and system engineers to experiment with low-level changes and estimate impact on vehicle performance and latency.",
+                "Enabled automated deployment of GCP Cloud Run services with Entra ID authentication using GCP Cloud Build.",
+                "Coached junior engineers on problem-solving approaches, software development paradigms, and best practices."
             ]
         },
         {
@@ -48,14 +59,14 @@
             "endDate": "2024-06-01",
             "summary": "Automation lead for organization of 100+ vehicle systems engineers",
             "highlights": [
-                "Collaborated with architecture tools team to implement a Python CLI tool to replace a legacy vendor-sourced toolchain that saved Ford more than 1 million dollars and enabled programmatic testing of an AUTOSAR compliant vehicle architecture",
-                "Managed a team of software engineers that collaborated with other development teams on defining end-to-end automation workflows and introducing automotive engineers to software development practices",
-                "Architected CI/CD workflows for critical vehicle deliverables using GitHub Actions",
-                "Coached teams on software, tooling, workflow & design best practices for streamlined delivery of value to stakeholders",
-                "Facilitated software development training courses in Python (Clean Code, SOLID Principles)",
-                "Designed & implemented developer workflows for custom automotive Linux distribution using Yocto & Bitbake",
-                "Deployed and managed infrastructure in GCP using Terraform",
-                "Enabled observability of internally developed tools using ElasticStack to better debug issues and track version usage across the internal customer base"
+                "Led and mentored a team of five software engineers that collaborated with other development teams to define end-to-end automation workflows and introduce automotive engineers to software development practices.",
+                "Collaborated with the architecture tools team to implement a Python CLI tool replacing a legacy vendor-sourced toolchain, saving Ford over $1 million and enabling programmatic testing of an AUTOSAR-compliant vehicle architecture.",
+                "Architected CI/CD workflows for critical vehicle deliverables using GitHub Actions.",
+                "Coached teams on software, tooling, workflow, and design best practices for streamlined value delivery.",
+                "Facilitated software development training courses in Python (Clean Code, SOLID Principles).",
+                "Designed and implemented developer workflows for a custom automotive Linux distribution using Yocto and Bitbake.",
+                "Deployed and managed infrastructure in GCP using Terraform.",
+                "Implemented observability for internal tools using the Elastic Stack to improve debugging and track version usage across teams."
             ]
         },
         {
@@ -66,8 +77,8 @@
             "endDate": "2022-11-01",
             "summary": "Automation tools lead",
             "highlights": [
-                "Designed & implemented automation workflows for a instruction-level simulation tool to create a shift-left culture & enforce code quality standards",
-                "Managed bare-metal high-performance compute infrastructure for execution of vehicle embedded software simulations using Ansible"
+                "Designed and implemented automation workflows for an instruction-level simulation tool to foster a shift-left culture and enforce code quality standards.",
+                "Managed bare-metal high-performance compute infrastructure for vehicle embedded software simulations using Ansible."
             ]
         },
         {
@@ -76,8 +87,10 @@
             "url": "https://www.alchemer.com/",
             "startDate": "2021-04-01",
             "endDate": "2021-11-01",
-            "summary": "Constructed new AWS environment while maintaining existing environment with no access to history or tribal knowledge",
-            "highlights": []
+            "summary": "Constructed a new AWS environment while maintaining an existing environment without access to historical documentation or tribal knowledge.",
+            "highlights": [
+                "Reverse-engineered infrastructure state across multiple AWS accounts to ensure continuity and secure migration."
+            ]
         },
         {
             "name": "NetApp, Inc",
@@ -87,9 +100,9 @@
             "endDate": "2021-03-01",
             "summary": "Tech lead for SAFe System Team responsible for software delivery pipeline health",
             "highlights": [
-                "Spearheaded effort to collect, display and improve decision making with DORA DevOps Metrics (change failure rate, lead time, mean time to recovery and deployment frequency)",
-                "Improved stability of a Jenkins pipeline for a custom Linux (Gentoo) distribution",
-                "Fulfilled SAFe Product Owner responsibilities: defined & maintained backlog of features, stories & bugs; worked with architects, product managers & other business owners to expand automation capabilities"
+                "Spearheaded efforts to collect, display, and improve decision-making with DORA DevOps Metrics (change failure rate, lead time, mean time to recovery, and deployment frequency).",
+                "Improved stability of a Jenkins pipeline for a custom Gentoo Linux distribution, enabling daily builds and release-on-demand.",
+                "Fulfilled SAFe Product Owner responsibilities: maintained backlog, defined features/stories/bugs, and collaborated with architects and product managers to expand automation capabilities."
             ]
         },
         {
@@ -98,12 +111,12 @@
             "url": "https://www.netapp.com",
             "startDate": "2017-03-01",
             "endDate": "2018-05-01",
-            "summary": "Test automation engineer & Agile ceremony facilitator",
+            "summary": "Test automation engineer and Agile ceremony facilitator",
             "highlights": [
-                "Wrote automated tests for low level network & SSD platform capabilities using Python & Bash",
-                "Converted manually documented test cases into Python",
-                "Collaborated with team in India to build out test services to simplify and share qualification tests with vendors and other technology partners",
-                "Fulfilled SAFe Scrum Master duties: facilitated daily stand-ups, retrospectives and planning"
+                "Wrote automated tests for low-level network and SSD platform capabilities using Python and Bash.",
+                "Converted manually documented test cases into Python for streamlined regression testing.",
+                "Collaborated with teams in India to build test services, simplifying and sharing qualification tests with vendors and partners.",
+                "Facilitated daily stand-ups, retrospectives, and planning meetings as a SAFe Scrum Master."
             ]
         },
         {
@@ -112,15 +125,15 @@
             "url": "https://www.netapp.com",
             "startDate": "2015-10-01",
             "endDate": "2017-03-01",
-            "summary": "Failure analysis & field reliability engineer",
+            "summary": "Failure analysis and field reliability engineer",
             "highlights": [
-                "Performed first level failure analysis of defective rack servers",
-                "Tracked & monitored systemic failure rates of components and worked with vendors on escalations",
-                "Automated generating failure rate reports using Python that were used to identify heightened failure rates of SSDs that had to be remediated by supplier"
+                "Performed first-level failure analysis of defective rack servers.",
+                "Tracked systemic failure rates and collaborated with vendors on escalations.",
+                "Automated generation of failure rate reports using Python, enabling identification and remediation of faulty SSD batches."
             ]
         },
         {
-            "name": "Seagate, Inc",
+            "name": "Seagate Technology",
             "position": "Customer Quality Failure Analysis Engineer",
             "url": "https://www.seagate.com",
             "startDate": "2015-10-01",
@@ -144,16 +157,16 @@
     "skills": [
         {
             "name": "Languages",
-            "level": "Using today",
+            "level": "Proficient",
             "keywords": [
                 "Python",
-                "Javascript",
-                "Typescript"
+                "JavaScript",
+                "TypeScript"
             ]
         },
         {
             "name": "Languages",
-            "level": "Out of practice",
+            "level": "Familiar",
             "keywords": [
                 "Bash",
                 "Golang",
@@ -161,9 +174,20 @@
             ]
         },
         {
+            "name": "Machine Learning & AI",
+            "keywords": [
+                "LangChain",
+                "RAG (Retrieval Augmented Generation)",
+                "LLM Prompt Engineering",
+                "Chainlit",
+                "Streamlit",
+                "GCP BigQuery"
+            ]
+        },
+        {
             "name": "Tools",
             "keywords": [
-                "Github Actions",
+                "GitHub Actions",
                 "Jenkins",
                 "Docker",
                 "Kubernetes",
@@ -184,7 +208,7 @@
                 "Concise communication",
                 "Critical & creative thinking",
                 "Leadership as an activity"
-            ] 
+            ]
         }
     ],
     "languages": [
@@ -194,11 +218,21 @@
         }
     ],
     "interests": [
-        {"name": "Dogs"},
-        {"name": "Food"},
-        {"name": "Ice Hockey"},
-        {"name": "Traveling"},
-        {"name": "Video Games"}
+        {
+            "name": "Dogs"
+        },
+        {
+            "name": "Food"
+        },
+        {
+            "name": "Ice Hockey"
+        },
+        {
+            "name": "Traveling"
+        },
+        {
+            "name": "Video Games"
+        }
     ],
     "references": [],
     "projects": []
