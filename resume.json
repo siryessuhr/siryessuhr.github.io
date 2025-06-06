@@ -8,7 +8,7 @@
         "picture": "https://avatars.githubusercontent.com/u/12955119?v=4",
         "email": "danielmsuhr@gmail.com",
         "url": "https://siryessuhr.github.io/",
-        "summary": "Experienced software engineer with a bias for action and a focus on delivering measurable value to both internal and external customers. Clear and effective communicator who views leadership as a continuous, collaborative activity.",
+        "summary": "Engineering leader and senior software developer with a proven track record of managing teams, driving tooling adoption, and leading full lifecycle delivery of internal developer platforms. Adept at mentoring engineers, aligning cross-functional teams, and translating organizational needs into scalable Python solutions. Strong communicator and systems thinker with experience guiding DevOps and automation strategy for large engineering organizations. Passionate about enabling developer success through thoughtful process, modern tooling, and collaborative leadership.",
         "location": {
             "city": "Denver Metro Area",
             "region": "Colorado",
@@ -35,7 +35,7 @@
             "url": "https://www.ford.com/",
             "startDate": "2025-01-01",
             "highlights": [
-                "Built an LLM-powered chatbot using RAG best practices to answer questions about AUTOSAR standards documentation. Leveraged Elastic vector databases, LangChain, Chainlit, and GCP Cloud Run to deploy the application broadly across development and architecture teams.",
+                "Built an LLM-powered chatbot using RAG best practices to answer questions about AUTOSAR standards documentation. Leveraged Elastic vector databases, LangChain, Chainlit, and GCP Cloud Run to deploy the application broadly across development and architecture teams. Used GitHub Copilot (agent mode) to assist in rapid prototyping and implementation.",
                 "Collaborated with the architecture team in Brazil to build a Jira issue debugger using Atlassian APIs, Elastic, and LangChain to accelerate root cause analysis of automotive test issues."
             ]
         },
@@ -48,15 +48,16 @@
             "endDate": "2024-12-31",
             "summary": "Software development lead of internal tools for vehicle performance & latency analysis",
             "highlights": [
-                "Architected a FastAPI backend and a Next.js frontend application for platform, feature, and system engineers to experiment with low-level changes and estimate impact on vehicle performance and latency.",
-                "Enabled automated deployment of GCP Cloud Run services with Entra ID authentication using GCP Cloud Build.",
-                "Coached junior engineers on problem-solving approaches, software development paradigms, and best practices."
+                "Architected a full-stack solution with FastAPI (Python) backend and Next.js frontend to empower engineers to model and simulate vehicle latency impacts. Emphasized modularity and reusability across teams.",
+                "Led stakeholder discovery and requirement gathering to ensure automation efforts aligned with real-world engineering workflows.",
+                "Integrated OAuth2-based Entra ID authentication and deployed to GCP Cloud Run with GitHub Actions CI/CD.",
+                "Mentored junior developers on full-stack engineering, including API design, modular backend logic, and frontend-backend integration."
             ]
         },
         {
             "name": "Ford Motor Company",
             "company": "Ford Motor Company",
-            "position": "Software Systems Development Engineer",
+            "position": "Software Systems Development Engineer - Team Lead & Manager",
             "url": "https://www.ford.com/",
             "startDate": "2022-11-01",
             "endDate": "2024-06-01",
@@ -203,7 +204,8 @@
                 "Ansible",
                 "Terraform",
                 "Google Cloud",
-                "AWS"
+                "AWS",
+                "GitHub Copilot"
             ]
         },
         {
@@ -216,33 +218,14 @@
                 "Scaled Agile / SAFe",
                 "Concise communication",
                 "Critical & creative thinking",
-                "Leadership as an activity"
+                "Leadership as an activity",
+                "Cross-team collaboration",
+                "Automation solution design"
             ]
         }
     ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Dogs"
-        },
-        {
-            "name": "Food"
-        },
-        {
-            "name": "Ice Hockey"
-        },
-        {
-            "name": "Traveling"
-        },
-        {
-            "name": "Video Games"
-        }
-    ],
+    "languages": [],
+    "interests": [],
     "references": [],
     "projects": []
 }
